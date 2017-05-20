@@ -1,0 +1,5 @@
+static struct option {
+		{"help", 0, 0, 'h'},
+		{"h", 0, 0, 'h'},
+		{0, 0, 0, 0}
+}long_options[];
